@@ -19,7 +19,7 @@
   <h3 align="center">Firebrick</h3>
 
   <p align="center">
-    A Hearthstone-like card game simulation.
+    A console-based Hearthstone-like card game simulation.
     <br/>
     ·
     <a href="https://github.com/cchristou3/Firebrick/issues">Report Bug</a>
